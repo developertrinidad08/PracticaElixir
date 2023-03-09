@@ -1,3 +1,4 @@
+#esta condicion es exactamento lo contrario al if.
 admin = false
 
 unless admin  do
