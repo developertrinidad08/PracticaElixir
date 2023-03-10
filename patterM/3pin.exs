@@ -20,7 +20,7 @@
 
  # pero lo devuelve correctamente por que el valor al cual estoy
  # comparando mi variable pin es igual al que ya le asigne
- # en caso de de que los valores sean distintos seria como hacer
+ # en caso de  que los valores sean distintos seria como hacer
 
  {:ok,^x,y} = {:ok,2,0}
 
@@ -31,6 +31,6 @@
 #como podemos observar 1 no es igual a 2 por lo tanto se da a
 # entender que lo que hace pin es comparar si el valor que tiene asignado
 # es igual al que lo estamos comparando en vez de asignarle un valor
-# para que se pueda despejar la incognita como pasa con el
+# para que se pueda despejar la incognita como pasa con
 
 Y = 0
