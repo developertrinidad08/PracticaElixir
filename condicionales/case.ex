@@ -1,6 +1,5 @@
 # El condicional case se encarga de juntar condicionales
 # con pattern matching.
-
 exp = {:ok , 1}
 
 output = case exp  do
@@ -11,3 +10,8 @@ output = case exp  do
  end
 
  IO.puts( output )
+
+#  cuando se utiliza case y cuando cond ?
+# cond se utiliza cuando queremos aplicar multiples if
+# donde normalmente no se suele hacer patter matching
+# este queda restringido al case

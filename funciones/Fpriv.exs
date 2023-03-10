@@ -1,5 +1,5 @@
 #como hacer una funciona privada ? sencillo cambiamos def por defp
-#lo que quiere decir que es pribada es que solo se va poder usar dentro del modulo
+#lo que quiere decir que es privada es que solo se va poder usar dentro del modulo
 #y en caso de querer usarla hay que poner una emboltura y llamarla
 #a travez de una funcion que si acceda a ella
 
