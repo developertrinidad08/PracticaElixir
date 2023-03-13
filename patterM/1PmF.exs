@@ -15,6 +15,7 @@ defmodule Calcul do
   def mult(a,b) do
     a * b
   end
+  #aca estamos utilizando una guarda
   def div(a,b) when b == 0 do
     :inf
   end
